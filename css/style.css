@@ -1,0 +1,158 @@
+
+
+header{
+  padding: 26px 0 27px 0;
+
+  margin-bottom: 70px;
+}
+
+
+.turkishBox{
+  margin-bottom: 0;
+}
+
+
+.bigFlex{
+  display: flex;
+  align-items: flex-start;
+  gap: 36px;
+  margin-bottom: 278px;
+}
+
+
+.navbar_too{
+  width: 97px;
+  margin-bottom: 70px;
+}
+
+
+.navbar_too ul{
+  display: flex;
+}
+
+
+.navbar_too_a1{
+  color: #B0B0B0;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
+
+.navbar_too_a1::after{
+  content: "";
+  width: 1px;
+  height: 13px;
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+  vertical-align: middle;
+  background-color: #B0B0B0;
+}
+
+
+.navbar_too_a1:hover{
+  color: red;
+}
+
+
+.navbar_too_a2{
+  color: #BB2339;
+}
+
+
+.navbar_too_a2:hover{
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.allMenuBox{
+  width: 428px;
+  flex-shrink: 0;
+  padding: 50px 40px 54px;
+  color: white;
+  background-color: #BB2339;
+  border-radius: 20px;
+}
+
+
+.allMenuBox p{
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 54px;
+
+  margin-bottom: 40px;
+}
+
+
+.allMenuBox li{
+  margin-bottom: 32px;
+}
+
+
+.allMenuBox_all{
+  font-weight: 600;
+  line-height: 175%;
+  letter-spacing: 0.05em;
+  color: #242424;
+  background-color: white;
+  border: 1px solid #fff;
+  border-radius: 100px;
+  padding: 10px 30px;
+}
+
+
+.allMenuBox_all:hover{
+  background-color: rgb(41, 35, 35);
+  color: white;
+}
+
+
+.allMenuBox_a{
+  font-weight: 600;
+  line-height: 175%;
+  letter-spacing: 0.05em;
+  color: #fff;
+  padding: 10px 30px;
+  border: 1px solid #fff;
+  border-radius: 100px;
+}
+
+
+.allMenuBox_a:hover{
+  background-color: white;
+  color: black;
+}
+
+
+.barbecueContainer2{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 36px;
+}
+
+
+.barbecueMenu{
+  margin-bottom: 16px;
+}
+
+
+.badminton3{
+  width: 100px;
+  top: 1236px;
+  left: 314px;
+  position: relative;
+}
+
+
+.gallery_section2{
+  margin-bottom: 20px;
+}
